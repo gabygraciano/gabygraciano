@@ -121,7 +121,7 @@ Uma Publicit√°ria metida em tecnologia e muito mais, atualmente mestranda em Ci√
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gabygraciano/gabygraciano/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
