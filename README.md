@@ -117,3 +117,12 @@ Uma Publicit√°ria metida em tecnologia e muito mais, atualmente mestranda em Ci√
 ![thanks-thank-you](https://github.com/user-attachments/assets/6b9cdeca-662b-49c1-bd5d-5bfe64b36fa0)
 
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gabygraciano/gabygraciano/output/snake.svg" alt="Snake animation" />
+
+###
+
+
