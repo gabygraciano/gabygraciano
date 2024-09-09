@@ -26,6 +26,7 @@ Uma Publicitária metida em tecnologia e muito mais, atualmente mestranda em Ci�
     <td><img src="https://github.com/user-attachments/assets/015a513f-2916-40ef-beaf-62212886f6d9" width="300"></td>
     <td>
       <ul>
+        <li>🥈 <strong>2024</strong> - Vencedora (2º lugar) Hackathon Campus Party Nordeste: Jaiminho, Desafio Correios</li>
         <li>🥇 <strong>2024</strong> - Vencedora (1º lugar) Hackathon Campus Party Brasil: Viva Center, Campus Party</li>
         <li>🏅 <strong>2024</strong> - Projeto selecionado na Campus Mobile (categoria Smart Cities): Recria, Claro Brasil</li>
         <li>🥇 <strong>2023</strong> - Vencedora (1º lugar) Hackathon Hacker Cidadão: Recria, Emprel, Prefeitura do Recife</li>
